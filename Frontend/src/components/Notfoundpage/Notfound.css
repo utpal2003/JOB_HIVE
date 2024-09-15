@@ -1,0 +1,47 @@
+.concept_Notfound{
+    border: 2px solid red;
+    height: 700px;
+}
+.container_Notfound {
+    text-align: center;
+    padding: 20px;
+}
+
+.content_Notfound {
+    /* border: 2px solid red; */
+    padding-top: 90px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.content_Notfound img {
+    width: 100%;
+    max-width: 300px;
+}
+
+.content_Notfound h1 {
+    font-size: 72px;
+    color: #333;
+    margin: 20px 0;
+}
+
+.content_Notfound p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.content_Notfound a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #51cc8e;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.4s ease;
+}
+
+.content_Notfound a:hover {
+    background-color: #0056b3;
+    color: #41de3f;
+}
